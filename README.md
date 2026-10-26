@@ -2,4 +2,4 @@
 
 7-slide interview deck for the Project Manager / PMO role at KFin Technologies.
 
-Open `index.html`. Keys: left/right arrows change slides, F full screen. On a phone, slides stack and scroll.
+Open `index.html`. Keys: left/right arrows change slides, F full screen, E edit (Esc to finish). On a phone, slides stack and scroll.
